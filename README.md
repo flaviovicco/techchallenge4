@@ -97,7 +97,7 @@ Este projeto implementa um pipeline completo de **análise de vídeo com IA**, f
    - Desenho da legenda no rodapé do frame.
    - Escrita do frame anotado no vídeo de saída.
 
-4. 🔁 **Geração de CSV detalhado**
+4. **Geração de CSV detalhado**
    - Cada linha = 1 pessoa em 1 frame:
      - `frame`, `face_id`, `person_label`, `emotion`, `score`, `caption`.
 
