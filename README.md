@@ -9,7 +9,7 @@ https://youtu.be/
 # 🎬 Análise de Vídeo com IA  
 Detecção de Faces, Emoções e Ações em PT-BR
 
-## 1. Visão Geral
+## 🎯 1. Visão Geral
 
 Este projeto implementa um pipeline completo de **análise de vídeo com IA**, focado em:
 
@@ -24,7 +24,7 @@ Este projeto implementa um pipeline completo de **análise de vídeo com IA**, f
 
 ---
 
-## 2. Funcionalidades Principais
+## 🧠 2. Funcionalidades Principais
 
 - **Detecção de Faces (MediaPipe Tasks)**
   - Uso do modelo BlazeFace (`.tflite`) via MediaPipe Tasks.
@@ -71,7 +71,7 @@ Este projeto implementa um pipeline completo de **análise de vídeo com IA**, f
 
 ---
 
-## 3. Arquitetura do Pipeline
+## 🧩 3. Arquitetura do Pipeline
 
 ### 3.1. Etapas do Fluxo
 
@@ -97,7 +97,7 @@ Este projeto implementa um pipeline completo de **análise de vídeo com IA**, f
    - Desenho da legenda no rodapé do frame.
    - Escrita do frame anotado no vídeo de saída.
 
-4. **Geração de CSV detalhado**
+4. 🔁 **Geração de CSV detalhado**
    - Cada linha = 1 pessoa em 1 frame:
      - `frame`, `face_id`, `person_label`, `emotion`, `score`, `caption`.
 
@@ -110,7 +110,7 @@ Este projeto implementa um pipeline completo de **análise de vídeo com IA**, f
 
 ---
 
-## 4. Estrutura dos Arquivos
+## 📊 4. Estrutura dos Arquivos
 
 ### 4.1. Vídeo de Saída
 
