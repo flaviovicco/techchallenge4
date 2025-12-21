@@ -1,3 +1,11 @@
+# Tech Challenge 4 - 5IADT
+Tech Challenge - Fase 4: Exemplo de Analise de Video em Python para detectar faces, emoções e atividades
+da Pos Tech em IA para Devs da FIAP, 2025.
+
+Flavio Luiz Vicco - RM 361664
+
+https://youtu.be/
+
 # Análise de Vídeo com IA  
 Detecção de Faces, Emoções e Ações em PT-BR
 
