@@ -6,7 +6,7 @@ Flavio Luiz Vicco - RM 361664
 
 https://youtu.be/
 
-# Análise de Vídeo com IA  
+# 🎬 Análise de Vídeo com IA  
 Detecção de Faces, Emoções e Ações em PT-BR
 
 ## 1. Visão Geral
