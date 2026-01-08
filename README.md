@@ -6,6 +6,9 @@ Flavio Luiz Vicco - RM 361664
 
 https://youtu.be/
 
+Olá, pessoal! Eu sou o Flavio Vicco e hoje vou apresentar o Tech Challenge da Fase 4 da Pos Tech em IA para Devs da FIAP, 2025. Vou mostrar, passo a passo, um sistema de análise de vídeo com inteligência artificial que detecta rostos, emoções e até o que está acontecendo na cena – e o melhor: tudo isso em português.
+Se você trabalha com gestão, experiência do cliente, segurança, operações ou simplesmente é apaixonado por IA, fica até o final porque eu vou mostrar o vídeo rodando, os relatórios gerados e como isso pode virar insight de negócio de verdade.
+
 # 🎬 Análise de Vídeo com IA  
 Detecção de Faces, Emoções e Ações em PT-BR
 
